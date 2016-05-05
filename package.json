@@ -1,0 +1,32 @@
+{
+  "name": "Porfolio",
+  "version": "1.0.0",
+  "description": "Mon portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "0.12.x",
+    "npm": "2.5.x"
+  },
+  "author": "Maxime Asselin",
+  "license": "",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "bower": "^1.7.6",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "grunt": "^0.4.5",
+    "grunt-angular-gettext": "^2.1.11",
+    "jade": "^1.11.0",
+    "mongoose": "^4.3.7",
+    "morgan": "^1.6.1",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
